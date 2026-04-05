@@ -20,7 +20,7 @@
 set -e
 
 SKILL_DIR="$HOME/.claude/skills/gesso-build"
-SKILL_URL="https://raw.githubusercontent.com/gesso-ai/gesso-build-skill/main/SKILL.md"
+SKILL_URL="https://raw.githubusercontent.com/JoshRasberry/gesso-public/main/SKILL.md"
 
 # ANSI colors — fall back to plain text if not a TTY
 if [ -t 1 ]; then
